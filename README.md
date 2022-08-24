@@ -42,6 +42,9 @@ Mobile Landscape
 </p>
 
 ## Links
+- Frontend Mentor Solution URL - [https://www.frontendmentor.io/solutions/fully-responsive-qr-code-component-using-css-grid-and-media-queries-HljdSE8VVL](https://www.frontendmentor.io/solutions/fully-responsive-qr-code-component-using-css-grid-and-media-queries-HljdSE8VVL "Frontend Mentor Solution URL")
+
+- Live Site URL - [https://am1ndlt.github.io/qr-code-component-solution-frontendmentor/](https://am1ndlt.github.io/qr-code-component-solution-frontendmentor/ "Live Site URL")
 
 
 ## Author
