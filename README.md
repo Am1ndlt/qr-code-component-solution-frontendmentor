@@ -35,7 +35,7 @@ Mobile
 </p>
 
 <p align="center">
-<img width="800px" align="center" src="https://user-images.githubusercontent.com/54519064/186347398-586db057-bbf4-4c57-a6cd-f83a6e0dd966.png">
+<img width="800px" align="center" src="https://user-images.githubusercontent.com/54519064/186391063-e0748034-7886-4324-a3a3-5b087e2a63ff.png">
   <p align="center">
 Mobile Landscape
   </p>
